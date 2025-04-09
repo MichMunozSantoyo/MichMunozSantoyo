@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory Using VMs](https://github.com/MichMunozSantoyo/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with WireShark](https://github.com/MichMunozSantoyo/azure-network-protocols)
+- <b>Virtual Private Network </b>
 
 <h2>🤳Connect with me:</h2>
 
