@@ -10,7 +10,7 @@
   - [Setting Up Active Directory Using VMs](https://github.com/MichMunozSantoyo/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with WireShark](https://github.com/MichMunozSantoyo/azure-network-protocols)
 - <b>Virtual Private Network </b>
-  - [VPN setup in Virtual Machine] (https://github.com/MichMunozSantoyo/VPN-Setup)
+  - [VPN setup in Virtual Machine](https://github.com/MichMunozSantoyo/VPN-Setup)
 <h2>🤳Connect with me:</h2>
 
 
